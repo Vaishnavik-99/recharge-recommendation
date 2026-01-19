@@ -12,7 +12,6 @@ This project recommends the best recharge plans for users based on their usage p
 - Scikit-learn
 - Jupyter Notebook
 
-## Project Structure
 How to Run
 1. Install requirements: pip install -r requirements.txt
 2. Run notebook: recommendation.ipynb
