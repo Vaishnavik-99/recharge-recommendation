@@ -1,0 +1,7 @@
+PlanID,PlanName,Price,Validity_Days,Talktime,Data_GB,SMS,Category
+1,Plan A,199,28,300,1,50,Prepaid
+2,Plan B,399,56,600,2,100,Prepaid
+3,Plan C,249,28,400,1.5,100,Prepaid
+4,Plan D,149,28,200,1,50,Prepaid
+5,Plan E,599,84,1000,3,150,Prepaid
+6,Plan F,99,14,100,0.5,20,Prepaid
